@@ -1,0 +1,28 @@
+body{
+	font-size: 30px;
+
+  font-family: "Rock Salt", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+.banner{
+	background: url(nb.jpg);
+	height: 730px;
+	width: px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.content{
+
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+font-size: 30px;
+
+
+}
